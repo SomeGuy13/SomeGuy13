@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently interested in game dev and graphics programming
+I'm currently interested in game dev, graphics programming, and rust programming
 
 <!--
 **SomeGuy13/SomeGuy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
